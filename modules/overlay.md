@@ -1,10 +1,11 @@
-### This is a sample checklist based on previous experiences when developing Overlay component.
+# Overlay
+
+## This is a sample checklist based on previous experiences when developing Overlay component.
+
 Please check if you know answers to at least questions below before starting implementation of Overlay component.
 
-
 - [ ] Is there an overlay?
-
- - [ ] If so, is it clickable? And what should then happen?
+	- [ ] If so, is it clickable? And what should then happen?
 
 - [ ] Is the height from the overlay fix?
 
@@ -13,8 +14,7 @@ Please check if you know answers to at least questions below before starting imp
 - [ ] How is the position of the overlay calculated? Center? Top?
 
 - [ ] Is there a scroll foreseen?
-
- - [ ] If so, is there any element that should stay fix?
+	- [ ] If so, is there any element that should stay fix?
 
 - [ ] Is there a closing button?
 
@@ -31,8 +31,7 @@ Please check if you know answers to at least questions below before starting imp
 - [ ] How should the overlay be triggered? Click on known element? Event based from any module? URL based?
 
 - [ ] Is there a background covering rest of the page?
-
- - [ ] If so, is it clickable, what should happen when it's clicked? Closing opened overlay?
+	- [ ] If so, is it clickable, what should happen when it's clicked? Closing opened overlay?
 
 - [ ] Is there a possibility to open multiple overlays?
 
