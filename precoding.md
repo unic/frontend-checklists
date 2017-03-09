@@ -6,15 +6,13 @@
 	- If not, can I come up myself with a proposal for it? Probably sketching it with pen and paper would be enough.
 
 - [ ] Do I have all icons? Do I have them in the proper format?
-
 - [ ] Do I have all colors from the module in the frontend configuration and style guide?
-
+- [ ] Do i have all needed pictures available? IE, to download from Zepplin
 - [ ] If the mobile design starts from 375px width - double check if we shouldn't support lower viewports - like still popular iPhone5 - 320px
 
 ## Content model
 
 - [ ] Do I have all images? In their size(s)?
-
 - [ ] Do I have all necessary elements defined?
 	- Do I know if they are all mandatory?
 	- Do I have designs for variants where non-mandatory content elements are missing?
@@ -52,3 +50,10 @@
 
 - [ ] External Libraries
 	- Do I need the whole functionality that library is offering or only a small subset? Maybe it's possible to import only part of it, (for example - lodash merge, vs whole lodash lib)
+
+- [ ] Is the module requiring AJAX?
+	- [ ] Is there a transaction-success state?
+	- [ ] Is there / is needed a transaction-success confirmation for the user?
+	- [ ] Is there a transaction-fail state?
+	- [ ] Is there / is needed a transaction-fail alert for the user?
+	- [ ] Is there a transaction-loading state?
