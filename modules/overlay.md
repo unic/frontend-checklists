@@ -4,9 +4,6 @@
 
 Please check if you know answers to at least questions below before starting implementation of Overlay component.
 
-- [ ] Is there an overlay?
-	- [ ] If so, is it clickable? And what should then happen?
-
 - [ ] Is the height from the overlay fix?
 
 - [ ] How is the overlay in small viewport? Full bleed? Full grid? Content width? Custom width? Full height? Content height? Custom height?
@@ -15,6 +12,7 @@ Please check if you know answers to at least questions below before starting imp
 
 - [ ] Is there a scroll foreseen?
 	- [ ] If so, is there any element that should stay fix?
+	- [ ] Should we care about scrolling background? Or Background scroll should be disabled?
 
 - [ ] Is there a closing button?
 
@@ -36,7 +34,5 @@ Please check if you know answers to at least questions below before starting imp
 - [ ] Is there a possibility to open multiple overlays?
 
 - [ ] Should the overlay be the topmost element when opened or there are any other modules coming in front?
-
-- [ ] Should we care about scrolling background? Or Background scroll should be disabled?
 
 - [ ] Are there show and hide animations?
