@@ -13,3 +13,4 @@
 ## Coding time
 
 - [ ] Am I conforming to the BEM syntax
+- [ ] Am I conforming to the coding guidelines described in the project?
